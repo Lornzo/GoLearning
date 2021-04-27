@@ -7,5 +7,5 @@ import (
 func main() {
 
 	//Step2.Class1()
-	Step2.Class3()
+	Step2.Class4()
 }
